@@ -1,0 +1,25 @@
+{
+  "name": "scraper-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin020796/master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin020796/master/issues"
+  },
+  "homepage": "https://github.com/sachin020796/master#readme",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.10.2",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^23.10.3",
+    "typescript": "^5.7.2"
+  }
+}

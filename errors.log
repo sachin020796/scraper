@@ -1,0 +1,25 @@
+Error scraping SKU B01LR5S6HK: Waiting for selector `span#productTitle` failed: Waiting failed: 60000ms exceeded
+Error scraping SKU 5326288985: Protocol error (Runtime.callFunctionOn): Target closed
+Error scraping SKU B0CT4BB651: Navigation timeout of 30000 ms exceeded
+Error scraping SKU 5326288985: Navigation timeout of 30000 ms exceeded
+B01LR5S6HK (Amazon): Navigation timeout of 30000 ms exceeded
+5326288985 (Walmart): Navigation timeout of 30000 ms exceeded
+Error scraping SKU B0CT4BB651: Waiting for selector `productTitle` failed: Waiting failed: 60000ms exceeded
+Error scraping SKU B01LR5S6HK: Waiting for selector `productTitle` failed: Protocol error (Runtime.callFunctionOn): Target closed
+Error scraping SKU 5326288985: Attempted to use detached Frame '30C5099674CB42E2F32C43387186BD3E'.
+Error scraping SKU B0CT4BB651: Waiting for selector `productTitle` failed: Waiting failed: 60000ms exceeded
+Error scraping SKU B01LR5S6HK: Waiting for selector `productTitle` failed: Waiting failed: 60000ms exceeded
+Error scraping SKU 5326288985: Navigation timeout of 30000 ms exceeded
+Error scraping 5326288985 (Walmart): Navigation timeout of 30000 ms exceeded
+Error scraping B01LR5S6HK (Amazon): net::ERR_CONNECTION_CLOSED at https://www.amazon.com/dp/B01LR5S6HK
+Error scraping SKU 5326288985: Waiting failed: 90000ms exceeded
+Error scraping SKU B01LR5S6HK: Waiting for selector `span#productTitle` failed: Waiting failed: 60000ms exceeded
+Error scraping SKU 5326288985: Navigation timeout of 30000 ms exceeded
+Error scraping SKU B0CT4BB651: Navigation timeout of 30000 ms exceeded
+Error scraping SKU B01LR5S6HK: Navigation timeout of 30000 ms exceeded
+Error scraping SKU 5326288985: net::ERR_NETWORK_CHANGED at https://www.walmart.com/product/5326288985
+Error scraping SKU 5326288985: Waiting failed: 90000ms exceeded
+Error scraping SKU 5326288985: Waiting failed: 90000ms exceeded
+Error scraping SKU 5326288985: Waiting failed: 60000ms exceeded
+Error scraping SKU 5326288985: Waiting for selector `[data-testid="product-title"]` failed: Waiting failed: 60000ms exceeded
+Element not found for SKU 5326288985
